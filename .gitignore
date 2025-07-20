@@ -1,0 +1,16 @@
+# Ignorar binários e arquivos temporários do Delphi
+__history/
+*.dcu
+*.dproj.local
+*.dsk
+*.identcache
+*.local
+*.~*
+*.exe
+*.dll
+*.so
+*.jpg
+*.txt
+bin/
+obj/
+EOT
