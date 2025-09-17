@@ -240,7 +240,6 @@ type
     QRImage1: TQRImage;
     QRShape18: TQRShape;
     QRLabel4: TQRLabel;
-    QRImage2: TQRImage;
     qr_ExameEXMedia01D: TFloatField;
     qr_ExameEXMedia02D: TFloatField;
     qr_ExameEXMedia01E: TFloatField;
