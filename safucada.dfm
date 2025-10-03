@@ -25,7 +25,7 @@ object fm_Cadastro: Tfm_Cadastro
     Top = 0
     Width = 792
     Height = 370
-    ActivePage = pg_Empresa
+    ActivePage = pg_Usuario
     Align = alClient
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText

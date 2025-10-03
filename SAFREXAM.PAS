@@ -82,8 +82,6 @@ type
     QRLabel11: TQRLabel;
     QRDBText6: TQRDBText;
     qr_ExameEX_Idade: TStringField;
-    QRLabel12: TQRLabel;
-    QRDBText7: TQRDBText;
     qr_ExamePCSexo: TStringField;
     QRLabel13: TQRLabel;
     QRDBText8: TQRDBText;
@@ -235,8 +233,6 @@ type
     QRDBText38: TQRDBText;
     QRLabel98: TQRLabel;
     qr_ExameSTDescricao: TStringField;
-    QRLabel15: TQRLabel;
-    QRDBText39: TQRDBText;
     QRImage1: TQRImage;
     QRShape18: TQRShape;
     QRLabel4: TQRLabel;

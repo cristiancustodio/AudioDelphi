@@ -18175,7 +18175,7 @@ object rp_Exame: Trp_Exame
     object QRDBText5: TQRDBText
       Left = 74
       Top = 201
-      Width = 494
+      Width = 638
       Height = 17
       Frame.Color = clBlack
       Frame.DrawTop = False
@@ -18186,7 +18186,7 @@ object rp_Exame: Trp_Exame
         44.979166666666670000
         195.791666666666700000
         531.812500000000000000
-        1307.041666666667000000)
+        1688.041666666667000000)
       Alignment = taLeftJustify
       AlignToBand = False
       AutoSize = False
@@ -18232,7 +18232,7 @@ object rp_Exame: Trp_Exame
     object QRDBText6: TQRDBText
       Left = 305
       Top = 182
-      Width = 213
+      Width = 173
       Height = 17
       Frame.Color = clBlack
       Frame.DrawTop = False
@@ -18243,7 +18243,7 @@ object rp_Exame: Trp_Exame
         44.979166666666670000
         806.979166666666700000
         481.541666666666700000
-        563.562500000000000000)
+        457.729166666666700000)
       Alignment = taLeftJustify
       AlignToBand = False
       AutoSize = False
@@ -18251,57 +18251,6 @@ object rp_Exame: Trp_Exame
       Color = clWhite
       DataSet = qr_Exame
       DataField = 'EX_Idade'
-      Transparent = False
-      WordWrap = False
-      FontSize = 10
-    end
-    object QRLabel12: TQRLabel
-      Left = 534
-      Top = 182
-      Width = 35
-      Height = 17
-      Frame.Color = clBlack
-      Frame.DrawTop = False
-      Frame.DrawBottom = False
-      Frame.DrawLeft = False
-      Frame.DrawRight = False
-      Size.Values = (
-        44.979166666666670000
-        1412.875000000000000000
-        481.541666666666700000
-        92.604166666666670000)
-      Alignment = taLeftJustify
-      AlignToBand = False
-      AutoSize = True
-      AutoStretch = False
-      Caption = 'Sexo:'
-      Color = clWhite
-      Transparent = False
-      WordWrap = False
-      FontSize = 10
-    end
-    object QRDBText7: TQRDBText
-      Left = 579
-      Top = 182
-      Width = 132
-      Height = 17
-      Frame.Color = clBlack
-      Frame.DrawTop = False
-      Frame.DrawBottom = False
-      Frame.DrawLeft = False
-      Frame.DrawRight = False
-      Size.Values = (
-        44.979166666666670000
-        1531.937500000000000000
-        481.541666666666700000
-        349.250000000000000000)
-      Alignment = taLeftJustify
-      AlignToBand = False
-      AutoSize = False
-      AutoStretch = False
-      Color = clWhite
-      DataSet = qr_Exame
-      DataField = 'PCSexo'
       Transparent = False
       WordWrap = False
       FontSize = 10
@@ -18334,7 +18283,7 @@ object rp_Exame: Trp_Exame
     object QRDBText8: TQRDBText
       Left = 66
       Top = 220
-      Width = 417
+      Width = 424
       Height = 17
       Frame.Color = clBlack
       Frame.DrawTop = False
@@ -18345,7 +18294,7 @@ object rp_Exame: Trp_Exame
         44.979166666666670000
         174.625000000000000000
         582.083333333333300000
-        1103.312500000000000000)
+        1121.833333333333000000)
       Alignment = taLeftJustify
       AlignToBand = False
       AutoSize = False
@@ -18358,9 +18307,9 @@ object rp_Exame: Trp_Exame
       FontSize = 10
     end
     object QRLabel14: TQRLabel
-      Left = 487
-      Top = 201
-      Width = 10
+      Left = 486
+      Top = 182
+      Width = 82
       Height = 17
       Frame.Color = clBlack
       Frame.DrawTop = False
@@ -18369,9 +18318,9 @@ object rp_Exame: Trp_Exame
       Frame.DrawRight = False
       Size.Values = (
         44.979166666666670000
-        1288.520833333333000000
-        531.812500000000000000
-        26.458333333333330000)
+        1285.875000000000000000
+        481.541666666666700000
+        216.958333333333300000)
       Alignment = taLeftJustify
       AlignToBand = False
       AutoSize = True
@@ -18389,8 +18338,8 @@ object rp_Exame: Trp_Exame
       FontSize = 10
     end
     object QRDBText9: TQRDBText
-      Left = 579
-      Top = 201
+      Left = 578
+      Top = 182
       Width = 63
       Height = 17
       Frame.Color = clBlack
@@ -18400,8 +18349,8 @@ object rp_Exame: Trp_Exame
       Frame.DrawRight = False
       Size.Values = (
         44.979166666666670000
-        1531.937500000000000000
-        531.812500000000000000
+        1529.291666666667000000
+        481.541666666666700000
         166.687500000000000000)
       Alignment = taLeftJustify
       AlignToBand = False
@@ -18423,7 +18372,7 @@ object rp_Exame: Trp_Exame
     object QRDBText10: TQRDBText
       Left = 93
       Top = 240
-      Width = 390
+      Width = 620
       Height = 17
       Frame.Color = clBlack
       Frame.DrawTop = False
@@ -18434,7 +18383,7 @@ object rp_Exame: Trp_Exame
         44.979166666666670000
         246.062500000000000000
         635.000000000000000000
-        1031.875000000000000000)
+        1640.416666666667000000)
       Alignment = taLeftJustify
       AlignToBand = False
       AutoSize = False
@@ -22104,57 +22053,6 @@ object rp_Exame: Trp_Exame
       WordWrap = False
       FontSize = 10
     end
-    object QRLabel15: TQRLabel
-      Left = 533
-      Top = 238
-      Width = 36
-      Height = 17
-      Frame.Color = clBlack
-      Frame.DrawTop = False
-      Frame.DrawBottom = False
-      Frame.DrawLeft = False
-      Frame.DrawRight = False
-      Size.Values = (
-        44.979166666666670000
-        1410.229166666667000000
-        629.708333333333300000
-        95.250000000000000000)
-      Alignment = taLeftJustify
-      AlignToBand = False
-      AutoSize = True
-      AutoStretch = False
-      Caption = 'Setor:'
-      Color = clWhite
-      Transparent = False
-      WordWrap = False
-      FontSize = 10
-    end
-    object QRDBText39: TQRDBText
-      Left = 579
-      Top = 238
-      Width = 372
-      Height = 17
-      Frame.Color = clBlack
-      Frame.DrawTop = False
-      Frame.DrawBottom = False
-      Frame.DrawLeft = False
-      Frame.DrawRight = False
-      Size.Values = (
-        44.979166666666670000
-        1531.937500000000000000
-        629.708333333333300000
-        984.250000000000000000)
-      Alignment = taLeftJustify
-      AlignToBand = False
-      AutoSize = False
-      AutoStretch = False
-      Color = clWhite
-      DataSet = qr_Exame
-      DataField = 'STDescricao'
-      Transparent = False
-      WordWrap = False
-      FontSize = 10
-    end
     object QRImage1: TQRImage
       Left = 21
       Top = 17
@@ -22565,9 +22463,9 @@ object rp_Exame: Trp_Exame
       Size = 40
     end
     object qr_ExameEMFantasia: TStringField
-      DisplayWidth = 55
+      DisplayWidth = 60
       FieldName = 'EMFantasia'
-      Size = 55
+      Size = 60
     end
     object qr_ExamePCNome: TStringField
       FieldName = 'PCNome'
